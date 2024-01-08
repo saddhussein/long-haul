@@ -2,7 +2,7 @@
 layout: post
 title:  " Amir dan Sholat Gerhana"
 author: sal
-categories: [ Cerita ]
+categories: Pikiran
 tags: [ Cerita Amir ]
 image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1684089722567/545763fa-314d-4e36-a565-6b7a56498dc9.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
 ---

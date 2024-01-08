@@ -2,7 +2,7 @@
 layout: post
 title:  " Amir dan Sebuah Rahasia"
 author: sal
-categories: [ Cerita ]
+categories: Pikiran
 tags: [ Cerita Amir ]
 image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1684090124832/99fed3ba-e629-46a6-b71a-576ffdb89372.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
 ---
