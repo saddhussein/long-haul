@@ -5,7 +5,7 @@ author: sal
 categories: Cerita
 image: touring.jpg
 ---
-Apa yang akan saya ceritakan di bawah ini adalah kisah nyata.
+<p class="intro"><span class="dropcap">A</span>pa yang akan saya ceritakan di bawah ini adalah kisah nyata..</p>
 
 Suatu pagi saat saya SMP, saya dan teman sekelas pindah ruang dari ruang kelas ke ruang seni tari. Hal ini terjadi karena ruang kelas kami direnovasi. Jadilah kami pindah ke ruang kecil yang berada di paling pojok di sekolahan.
 
