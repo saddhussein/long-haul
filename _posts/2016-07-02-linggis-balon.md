@@ -3,7 +3,7 @@ layout: post
 title:  "Belajar Dari Linggis Dan Balon"
 author: sal
 categories: Cerita
-image: image: touring.jpg
+image: touring.jpg
 ---
 Apa yang akan saya ceritakan di bawah ini adalah kisah nyata.
 
