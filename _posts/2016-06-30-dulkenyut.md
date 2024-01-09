@@ -6,8 +6,7 @@ categories: [ Cerita ]
 image: assets/images/11.jpg
 #rating: 4.5
 ---
-
-Pak Kepala Desa alias Kades terpilih mulai menjalankan tugas Kades dengan sangat baik. Pribadinya santun dan ibadahnya rajin. Pembicaraan tentang Kades baru merebak di mana-mana, di setiap lapisan masyarakat.
+<p class="intro"><span class="dropcap">P</span>ak Kepala Desa alias Kades terpilih mulai menjalankan tugas Kades dengan sangat baik. Pribadinya santun dan ibadahnya rajin. Pembicaraan tentang Kades baru merebak di mana-mana, di setiap lapisan masyarakat.</p>
 
 “*Nganu* Pak. Saya ini masih sodaraan sama Pak Kades. Malahan dulu saya ini tim suksesnya pas kampanye dulu”, kata Dulkenyut.
 
