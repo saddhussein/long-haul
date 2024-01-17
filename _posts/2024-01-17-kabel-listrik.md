@@ -2,8 +2,8 @@
 layout: post
 title:  "Kabel Listrik"
 author: sal
-categories: [Cerita, Kali] 
-image: touring.jpg
+categories: [Cerita, Kali]
+image: kabel-listrik.jpg
 ---
 <p class="intro"><span class="dropcap">D</span>alam perjalanan dari Mataram ke Pantai Kondo, seorang teman berkelakar, "Seindah-indahnya pemandangan di Indonesia, yang kita lihat tetaplah kabel listrik."</p>
 
