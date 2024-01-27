@@ -117,7 +117,7 @@ Seberapa aku di hatimu?
 
 Sajak ini untukmu         
 persembahan tulus hatiku       
-meski buatmu sepi : kosong sama sekali.         
+meski buatmu sepi: kosong sama sekali.         
 
 (2007)
 
