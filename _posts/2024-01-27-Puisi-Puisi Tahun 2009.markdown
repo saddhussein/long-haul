@@ -23,8 +23,8 @@ Yang menyingkap misteri dalam kejiwaan dibalik ketubuhannya
 
 Sayup matanya membekas di semburat wajahnya, menatap dibalik jendela
 penuh harap, menanti seseorang yang ia sebut kekasih.
-Dia memerikan setiap kenangan menjadi kepingan yang semakin lama 					
-                                        mulai tercecer hilang,
+Dia memerikan setiap kenangan menjadi kepingan yang semakin lama
+                                          mulai tercecer hilang,
 satu bagian
 dan bagian yang lain.
 
