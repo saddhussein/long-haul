@@ -10,9 +10,9 @@ image: kabel-listrik.jpg
 <p class="intro"><span class="dropcap">T</span>anpa perlu banyak berkata-kata, berikut adalah beberapa puisi yang saya tulis di tahun 2009 (yang masih terselamatkan filenya).</p>
 
 <figure>
-	<img src="/assets/img/2009_Rinduku sebatang randu.png" alt="" style="float: left; margin-right: 10px;">
+	<img src="/assets/img/2009_Rinduku sebatang randu.png" alt="" style="text-align: left;">
 </figure>
 
 <figure>
-	<img src="/assets/img/2009_Aku dan Puisi.png" alt="" style="float: left; margin-right: 10px;">
+	<img src="/assets/img/2009_Aku dan Puisi.png" alt="" style="text-align: left;">
 </figure>
