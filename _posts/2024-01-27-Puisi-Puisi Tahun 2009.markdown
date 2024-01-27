@@ -99,8 +99,9 @@ Lingkaran, bukan oval!
 
 Sajak untukmu ini,        
 Sebuah untaian kata yang tertahan angan       
-         urutan huruf yang termimpi rapi
-meski buatmu sepi : kosong sama sekali.       
+         urutan huruf yang termimpi rapi       
+meski buatmu sepi       
+: kosong sama sekali.       
 
 Dengan sajak ini aku,       
 menyerukan sungguh-sungguh kecintaan angkuh jiwaku       
