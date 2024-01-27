@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "Puisi-puisi Tahun 2009"
 date:   2014-12-10
 author: sal
 categories: [Karya]
@@ -11,7 +11,12 @@ image: kabel-listrik.jpg
 
 ### Rinduku Sebatang Randu
 
-![Rinduku Sebatang Randu](2009_Rinduku sebatang randu.png)
+<figure>
+	<img src="2009_Rinduku sebatang randu.png" alt="">
+</figure>
 
 ### Aku dan Puisi
-![Aku dan Puisi](2009_Aku dan Puisi.png)
+
+<figure>
+	<img src="2009_Aku dan Puisi.png" alt="">
+</figure>
