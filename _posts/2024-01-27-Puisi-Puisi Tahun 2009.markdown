@@ -11,29 +11,29 @@ image: kabel-listrik.jpg
 
 #### Dia Masih Seperti Biasa
 
-Dia masih seperti biasa
-Seorang gadis yang menatap senja dari balik jendela
-membuat hubungan yang tak jelas dengan dunianya
-dunia yang tak mau mengakui kesetiaannya
+Dia masih seperti biasa                  
+Seorang gadis yang menatap senja dari balik jendela            
+membuat hubungan yang tak jelas dengan dunianya       
+dunia yang tak mau mengakui kesetiaannya       
 
-Dia masih seperti biasa
-Seorang gadis yang menatap senja dari balik jendela
-Tersungging senyum manis oleh bibir kecilnya
-Yang menyingkap misteri dalam kejiwaan dibalik ketubuhannya
+Dia masih seperti biasa       
+Seorang gadis yang menatap senja dari balik jendela       
+Tersungging senyum manis oleh bibir kecilnya       
+Yang menyingkap misteri dalam kejiwaan dibalik ketubuhannya       
 
-Sayup matanya membekas di semburat wajahnya, menatap dibalik jendela
-penuh harap, menanti seseorang yang ia sebut kekasih.
-Dia memerikan setiap kenangan menjadi kepingan yang semakin lama
-                                          mulai tercecer hilang,
-satu bagian
-dan bagian yang lain.
+Sayup matanya membekas di semburat wajahnya, menatap dibalik jendela       
+penuh harap, menanti seseorang yang ia sebut kekasih.       
+Dia memerikan setiap kenangan menjadi kepingan yang semakin lama       
+                                          mulai tercecer hilang,       
+satu bagian       
+dan bagian yang lain.       
 
-Hari itu dilaluinya seperti biasa, tak istimewa
-menatap senja dari balik jendela.
-Hanya seperti biasa
-Hanya senja yang mengerti keberadaannya
+Hari itu dilaluinya seperti biasa, tak istimewa       
+menatap senja dari balik jendela.       
+Hanya seperti biasa       
+Hanya senja yang mengerti keberadaannya       
 
-(2007)
+(2007)       
 
 #### Kabut
 
