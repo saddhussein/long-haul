@@ -12,11 +12,11 @@ image: kabel-listrik.jpg
 ### Rinduku Sebatang Randu
 
 <figure>
-	<img src="2009_Rinduku sebatang randu.png" alt="">
+	<img src="/assets/img/2009_Rinduku sebatang randu.png" alt="">
 </figure>
 
 ### Aku dan Puisi
 
 <figure>
-	<img src="2009_Aku dan Puisi.png" alt="">
+	<img src="/assets/img/2009_Aku dan Puisi.png" alt="">
 </figure>
