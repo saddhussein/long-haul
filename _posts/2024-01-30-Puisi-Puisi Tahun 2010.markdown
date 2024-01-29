@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Puisi-puisi Tahun 2010"
-date:   2024-01-30
+date:   2024-01-29
 author: sal
 categories: [Karya]
 image: kabel-listrik.jpg
@@ -13,25 +13,25 @@ image: kabel-listrik.jpg
 Puisi-puisi di bawah ini ditulis di bulan Januari 2010.
 
 ### Aku dan Puisi (2)
-Ternyata lama juga aku tak mengunjungi
-sahabatku puisi yang tinggal di lembaran kenangan
-: di tepi sunyi, di dalam amarah, di luapan kegembiraan.
+Ternyata lama juga aku tak mengunjungi    
+sahabatku puisi yang tinggal di lembaran kenangan    
+: di tepi sunyi, di dalam amarah, di luapan kegembiraan.    
 
-di sana aku mendapati mereka masih seperti biasa:
-puisi tangis yang bermain di bawah rintik gerimis,
-puisi rindu yang menyanyi lagu dalam alunan merdu,
-puisi malam yang menahan amarah dalam diam,
-serta puisi hujan yang menggerus tanah menjadi relief indah,
-sedang puisi cinta, dimanakah ia?
+di sana aku mendapati mereka masih seperti biasa:    
+puisi tangis yang bermain di bawah rintik gerimis,    
+puisi rindu yang menyanyi lagu dalam alunan merdu,    
+puisi malam yang menahan amarah dalam diam,    
+serta puisi hujan yang menggerus tanah menjadi relief indah,    
+sedang puisi cinta, dimanakah ia?    
 
-Tak seperti biasa
-ia duduk di pojok ruangan
-ia begitu lemah dan kesepian.
+Tak seperti biasa    
+ia duduk di pojok ruangan    
+ia begitu lemah dan kesepian.    
 
-saat melihatku, dengan tatapan sayu ia berkata padaku
+saat melihatku, dengan tatapan sayu ia berkata padaku   
 
-"Tuan, ambilah kertas dan pena. Tolong buatkan sajak
-sebait saja biar aku ada yang menjaga."
+"Tuan, ambilah kertas dan pena. Tolong buatkan sajak    
+sebait saja biar aku ada yang menjaga."      
 
 (Januari 2010)
 
