@@ -10,6 +10,7 @@ image: kabel-listrik.jpg
 <p class="intro"><span class="dropcap">T</span>anpa perlu banyak berkata-kata, berikut adalah beberapa puisi yang saya tulis di tahun 2010 (yang masih terselamatkan filenya).</p>
 
 ### Januari
+Puisi-puisi di bawah ini ditulis di bulan Januari 2010.
 
 ### Aku dan Puisi (2)
 Ternyata lama juga aku tak mengunjungi
@@ -75,6 +76,7 @@ setiap kali kau menatapku.
 
 
 ### Februari
+Puisi-puisi di bawah ini ditulis di bulan Februari 2010.
 
 #### Kupu-kupu (2)
 Adakah kau temukan aku di dalam potongan mimpimu, kupukupu?
@@ -101,6 +103,7 @@ aku merindukan pemiliknya.
  
 
 ### Maret
+Puisi-puisi di bawah ini ditulis di bulan Maret 2010.
 
 #### Kupu-kupu (3)
 atas janji pengembaraan:
@@ -134,6 +137,7 @@ namamu.
 (Maret 2010)
 
 ### Juli
+Puisi-puisi di bawah ini ditulis di bulan Juli 2010.
 
 #### Malam Ini Aku Ingin Menulis Puisi
 Tolong sayang, untuk malam ini saja beri aku
@@ -224,6 +228,7 @@ disertai kata-katamu yang terdengar melengking.
 (Juli 2010)
  
 ### Agustus
+Puisi-puisi di bawah ini ditulis di bulan Agustus 2010.
 
 #### Di Langit Itu
 di langit itu masih ada pilar-pilar cahaya
@@ -310,6 +315,7 @@ tidak pernah disebut sampah.
 (Agustus 2010)
 
 ### September
+Puisi-puisi di bawah ini ditulis di bulan September 2010.
 
 #### Kabut (3)
 dulu ia adalah kabut, kemudian turun sebagai hujan
